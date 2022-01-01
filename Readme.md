@@ -71,7 +71,7 @@ You can deploy this bot anywhere.
 <i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
 
 <details><summary>Deploy To Heroku</summary>
-<p>
+<p>AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/AlbertEinsteinTG/Adv-AF-V2-Deployer">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
