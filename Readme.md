@@ -67,7 +67,9 @@ OR
 
 ## Deploy
 You can deploy this bot anywhere.
+## heroku:. AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2
 
+    "success_url": "https://telegram.dog/CrazyBotsz",
 <i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
 
 <details><summary>Deploy To Heroku</summary>
